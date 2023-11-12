@@ -1,0 +1,39 @@
+.bg-morado{
+    
+    background-color:#009971
+    
+}
+.bg-azul{
+    background-color: indigo;
+    
+}
+.bg-rojo{
+    background-color: #bca875;
+}
+.bg-negro{
+    background-color:#edc951;
+    border: 1px solid snow ; 
+    box-shadow: #29594c 1px 1px 10px;
+
+
+}
+.h-200{
+    height: 200px !important;
+
+}
+.formulario-con-margen-negro {
+    margin: 10px;
+    border: 2px solid black;
+}
+.footer-con-fondo-rojo {
+    background-color: red;
+    
+}
+
+.mt-6{
+    margin-top: 6rem;
+}
+.card shadow{
+    display: flex;
+
+}
